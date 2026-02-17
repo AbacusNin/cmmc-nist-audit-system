@@ -4,7 +4,6 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-red?style=flat-square&logo=streamlit)](https://streamlit.io)
 [![NIST 800-171](https://img.shields.io/badge/NIST%20SP%20800--171-Rev%202-blue?style=flat-square)](https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final)
 [![CMMC](https://img.shields.io/badge/CMMC-Level%202-green?style=flat-square)](https://www.acq.osd.mil/cmmc/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 [![Tests](https://img.shields.io/badge/Tests-8%20passed-brightgreen?style=flat-square)]()
 
 > A web-based compliance assessment, evidence management, and audit preparation
