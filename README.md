@@ -19,11 +19,11 @@ all **110 NIST SP 800-171 Rev 2 controls**, maintain evidence repositories, trac
 remediation plans, and generate audit-ready deliverables. This tool provides a
 unified workflow for the entire compliance lifecycle:
 
-1. **Assess** — Evaluate each control's implementation status
-2. **Document** — Map evidence artifacts to controls
-3. **Remediate** — Track gaps via POA&M items with auto-generation
-4. **Score** — Calculate SPRS scores using DoD Assessment Methodology weights
-5. **Export** — Generate SSP summaries, POA&M reports, and CSV deliverables
+1. **Assess** - Evaluate each control's implementation status
+2. **Document** - Map evidence artifacts to controls
+3. **Remediate** - Track gaps via POA&M items with auto-generation
+4. **Score** - Calculate SPRS scores using DoD Assessment Methodology weights
+5. **Export** - Generate SSP summaries, POA&M reports, and CSV deliverables
 
 Built from direct experience and understanding client pain points from DIB consultation engagements.
 
@@ -50,7 +50,7 @@ Built from direct experience and understanding client pain points from DIB consu
 
 ### Evidence Manager
 - Create and catalog evidence artifacts (policies, screenshots, configs, logs, etc.)
-- **Map artifacts to multiple controls** — one policy can satisfy many requirements
+- **Map artifacts to multiple controls** - one policy can satisfy many requirements
 - Evidence coverage matrix showing which controls lack artifacts
 - 15 artifact type categories aligned to common audit expectations
 - Filter and search across the evidence inventory
