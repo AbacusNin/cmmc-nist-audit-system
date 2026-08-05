@@ -1,4 +1,4 @@
-# CMMC / NIST SP 800-171 Audit & Compliance System — Project Writeup
+# CMMC / NIST SP 800-171 Audit & Compliance System - Project Writeup
 
 **Status:** Active Development
 
@@ -50,7 +50,7 @@ A test suite was written for the scoring engine, which is the most critical comp
 | Decision | Choice | Rationale |
 |---|---|---|
 | Language | Python 3.10+ | Dominant in security tooling, data processing, and the compliance automation space. Familiar to the target user base. |
-| Framework | Streamlit | Rapid prototyping, built-in state management, zero JavaScript required. Allows a compliance officer — not a web developer — to understand and extend the tool. |
+| Framework | Streamlit | Rapid prototyping, built-in state management, zero JavaScript required. Allows a compliance officer easier access to understanding and extending the tool. |
 | Data Storage | JSON files | No database dependencies. Portable. A compliance officer can email an assessment file. Aligns with how DIB contractors actually transfer compliance artifacts. |
 | Control Catalog | Structured JSON | Machine-readable, versionable, diffable. Enables automated scoring and cross-referencing without parsing PDFs. |
 | Scoring | Custom engine with DoD weights | No existing open-source implementation accurately applies the DoD Assessment Methodology's per-control weighting. This had to be built from primary sources. |
