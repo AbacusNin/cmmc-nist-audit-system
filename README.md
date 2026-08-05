@@ -27,7 +27,7 @@ unified workflow for the entire compliance lifecycle:
 
 Built from direct experience and understanding client pain points from DIB consultation engagements.
 
-> 📝 **[Read the full project writeup →](PROJECT_WRITEUP.md)** — methodology, techniques, and lessons learned
+> 📝 **[Read the full project writeup →](PROJECT_WRITEUP.md)** - methodology, techniques, and lessons learned
 
 ---
 
